@@ -5,6 +5,8 @@ This is a practice project on creating a weight converter app, where a user can 
 
 Additional description about the project and its features.
 
+![screenshot](./dist/images/weightconverter.png)
+
 ## Built With
 
 - Javascript(ES6)
@@ -16,7 +18,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-Coming up...
+<a href="https://emmanuelkamala.github.io/WeightConverter/">Live Version</a>
 
 
 ## Getting Started
